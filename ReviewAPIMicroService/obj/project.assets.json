@@ -12973,11 +12973,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\TestApps\\ReviewApp\\ReviewAPIMicroService\\ReviewAPIMicroService.csproj",
+      "projectUniqueName": "C:\\TestApps\\CoreWithEF\\ReviewAPIMicroService\\ReviewAPIMicroService.csproj",
       "projectName": "ReviewAPIMicroService",
-      "projectPath": "C:\\TestApps\\ReviewApp\\ReviewAPIMicroService\\ReviewAPIMicroService.csproj",
+      "projectPath": "C:\\TestApps\\CoreWithEF\\ReviewAPIMicroService\\ReviewAPIMicroService.csproj",
       "packagesPath": "C:\\Users\\a-varockiasamy\\.nuget\\packages\\",
-      "outputPath": "C:\\TestApps\\ReviewApp\\ReviewAPIMicroService\\obj\\",
+      "outputPath": "C:\\TestApps\\CoreWithEF\\ReviewAPIMicroService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12996,17 +12996,17 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\TestApps\\ReviewApp\\BusinessDataAccessDefinition\\BusinessDataAccessDefinition.csproj": {
-              "projectPath": "C:\\TestApps\\ReviewApp\\BusinessDataAccessDefinition\\BusinessDataAccessDefinition.csproj"
+            "C:\\TestApps\\CoreWithEF\\BusinessDataAccessDefinition\\BusinessDataAccessDefinition.csproj": {
+              "projectPath": "C:\\TestApps\\CoreWithEF\\BusinessDataAccessDefinition\\BusinessDataAccessDefinition.csproj"
             },
-            "C:\\TestApps\\ReviewApp\\BusinessDataAccess\\BusinessDataAccess\\BusinessDataAccess.csproj": {
-              "projectPath": "C:\\TestApps\\ReviewApp\\BusinessDataAccess\\BusinessDataAccess\\BusinessDataAccess.csproj"
+            "C:\\TestApps\\CoreWithEF\\BusinessDataAccess\\BusinessDataAccess\\BusinessDataAccess.csproj": {
+              "projectPath": "C:\\TestApps\\CoreWithEF\\BusinessDataAccess\\BusinessDataAccess\\BusinessDataAccess.csproj"
             },
-            "C:\\TestApps\\ReviewApp\\BusinessEntitties\\BusinessEntitties.csproj": {
-              "projectPath": "C:\\TestApps\\ReviewApp\\BusinessEntitties\\BusinessEntitties.csproj"
+            "C:\\TestApps\\CoreWithEF\\BusinessEntitties\\BusinessEntitties.csproj": {
+              "projectPath": "C:\\TestApps\\CoreWithEF\\BusinessEntitties\\BusinessEntitties.csproj"
             },
-            "C:\\TestApps\\ReviewApp\\Common\\Common.csproj": {
-              "projectPath": "C:\\TestApps\\ReviewApp\\Common\\Common.csproj"
+            "C:\\TestApps\\CoreWithEF\\Common\\Common.csproj": {
+              "projectPath": "C:\\TestApps\\CoreWithEF\\Common\\Common.csproj"
             }
           }
         }

@@ -1441,11 +1441,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\TestApps\\ReviewApp\\BusinessEntitties\\BusinessEntitties.csproj",
+      "projectUniqueName": "C:\\TestApps\\CoreWithEF\\BusinessEntitties\\BusinessEntitties.csproj",
       "projectName": "BusinessEntitties",
-      "projectPath": "C:\\TestApps\\ReviewApp\\BusinessEntitties\\BusinessEntitties.csproj",
+      "projectPath": "C:\\TestApps\\CoreWithEF\\BusinessEntitties\\BusinessEntitties.csproj",
       "packagesPath": "C:\\Users\\a-varockiasamy\\.nuget\\packages\\",
-      "outputPath": "C:\\TestApps\\ReviewApp\\BusinessEntitties\\obj\\",
+      "outputPath": "C:\\TestApps\\CoreWithEF\\BusinessEntitties\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

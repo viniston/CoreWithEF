@@ -1265,11 +1265,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\TestApps\\ReviewApp\\Common\\Common.csproj",
+      "projectUniqueName": "C:\\TestApps\\CoreWithEF\\Common\\Common.csproj",
       "projectName": "Common",
-      "projectPath": "C:\\TestApps\\ReviewApp\\Common\\Common.csproj",
+      "projectPath": "C:\\TestApps\\CoreWithEF\\Common\\Common.csproj",
       "packagesPath": "C:\\Users\\a-varockiasamy\\.nuget\\packages\\",
-      "outputPath": "C:\\TestApps\\ReviewApp\\Common\\obj\\",
+      "outputPath": "C:\\TestApps\\CoreWithEF\\Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

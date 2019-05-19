@@ -3909,11 +3909,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\TestApps\\ReviewApp\\BusinessDataAccessDefinition\\BusinessDataAccessDefinition.csproj",
+      "projectUniqueName": "C:\\TestApps\\CoreWithEF\\BusinessDataAccessDefinition\\BusinessDataAccessDefinition.csproj",
       "projectName": "BusinessDataAccessDefinition",
-      "projectPath": "C:\\TestApps\\ReviewApp\\BusinessDataAccessDefinition\\BusinessDataAccessDefinition.csproj",
+      "projectPath": "C:\\TestApps\\CoreWithEF\\BusinessDataAccessDefinition\\BusinessDataAccessDefinition.csproj",
       "packagesPath": "C:\\Users\\a-varockiasamy\\.nuget\\packages\\",
-      "outputPath": "C:\\TestApps\\ReviewApp\\BusinessDataAccessDefinition\\obj\\",
+      "outputPath": "C:\\TestApps\\CoreWithEF\\BusinessDataAccessDefinition\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3932,8 +3932,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\TestApps\\ReviewApp\\BusinessEntitties\\BusinessEntitties.csproj": {
-              "projectPath": "C:\\TestApps\\ReviewApp\\BusinessEntitties\\BusinessEntitties.csproj"
+            "C:\\TestApps\\CoreWithEF\\BusinessEntitties\\BusinessEntitties.csproj": {
+              "projectPath": "C:\\TestApps\\CoreWithEF\\BusinessEntitties\\BusinessEntitties.csproj"
             }
           }
         }
