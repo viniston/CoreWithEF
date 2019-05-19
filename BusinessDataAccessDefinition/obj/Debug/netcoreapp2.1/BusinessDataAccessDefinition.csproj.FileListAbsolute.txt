@@ -1,0 +1,12 @@
+C:\TestApps\ReviewApp\BusinessDataAccessDefinition\bin\Debug\netcoreapp2.1\BusinessDataAccessDefinition.deps.json
+C:\TestApps\ReviewApp\BusinessDataAccessDefinition\bin\Debug\netcoreapp2.1\BusinessDataAccessDefinition.dll
+C:\TestApps\ReviewApp\BusinessDataAccessDefinition\bin\Debug\netcoreapp2.1\BusinessDataAccessDefinition.pdb
+C:\TestApps\ReviewApp\BusinessDataAccessDefinition\bin\Debug\netcoreapp2.1\BusinessEntitties.dll
+C:\TestApps\ReviewApp\BusinessDataAccessDefinition\bin\Debug\netcoreapp2.1\BusinessEntitties.pdb
+C:\TestApps\ReviewApp\BusinessDataAccessDefinition\obj\Debug\netcoreapp2.1\BusinessDataAccessDefinition.csprojAssemblyReference.cache
+C:\TestApps\ReviewApp\BusinessDataAccessDefinition\obj\Debug\netcoreapp2.1\BusinessDataAccessDefinition.csproj.CoreCompileInputs.cache
+C:\TestApps\ReviewApp\BusinessDataAccessDefinition\obj\Debug\netcoreapp2.1\BusinessDataAccessDefinition.AssemblyInfoInputs.cache
+C:\TestApps\ReviewApp\BusinessDataAccessDefinition\obj\Debug\netcoreapp2.1\BusinessDataAccessDefinition.AssemblyInfo.cs
+C:\TestApps\ReviewApp\BusinessDataAccessDefinition\obj\Debug\netcoreapp2.1\BusinessDataAccessDefinition.csproj.CopyComplete
+C:\TestApps\ReviewApp\BusinessDataAccessDefinition\obj\Debug\netcoreapp2.1\BusinessDataAccessDefinition.dll
+C:\TestApps\ReviewApp\BusinessDataAccessDefinition\obj\Debug\netcoreapp2.1\BusinessDataAccessDefinition.pdb

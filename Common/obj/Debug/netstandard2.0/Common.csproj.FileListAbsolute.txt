@@ -1,0 +1,9 @@
+C:\TestApps\ReviewApp\Common\bin\Debug\netstandard2.0\Common.deps.json
+C:\TestApps\ReviewApp\Common\bin\Debug\netstandard2.0\Common.dll
+C:\TestApps\ReviewApp\Common\bin\Debug\netstandard2.0\Common.pdb
+C:\TestApps\ReviewApp\Common\obj\Debug\netstandard2.0\Common.csprojAssemblyReference.cache
+C:\TestApps\ReviewApp\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+C:\TestApps\ReviewApp\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+C:\TestApps\ReviewApp\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+C:\TestApps\ReviewApp\Common\obj\Debug\netstandard2.0\Common.dll
+C:\TestApps\ReviewApp\Common\obj\Debug\netstandard2.0\Common.pdb
