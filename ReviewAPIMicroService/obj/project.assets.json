@@ -12924,8 +12924,8 @@
     },
     "BusinessDataAccess/1.0.0": {
       "type": "project",
-      "path": "../BusinessDataAccess/BusinessDataAccess/BusinessDataAccess.csproj",
-      "msbuildProject": "../BusinessDataAccess/BusinessDataAccess/BusinessDataAccess.csproj"
+      "path": "../BusinessDataAccess/BusinessDataAccess.csproj",
+      "msbuildProject": "../BusinessDataAccess/BusinessDataAccess.csproj"
     },
     "BusinessDataAccessDefinition/1.0.0": {
       "type": "project",
@@ -12999,8 +12999,8 @@
             "C:\\TestApps\\CoreWithEF\\BusinessDataAccessDefinition\\BusinessDataAccessDefinition.csproj": {
               "projectPath": "C:\\TestApps\\CoreWithEF\\BusinessDataAccessDefinition\\BusinessDataAccessDefinition.csproj"
             },
-            "C:\\TestApps\\CoreWithEF\\BusinessDataAccess\\BusinessDataAccess\\BusinessDataAccess.csproj": {
-              "projectPath": "C:\\TestApps\\CoreWithEF\\BusinessDataAccess\\BusinessDataAccess\\BusinessDataAccess.csproj"
+            "C:\\TestApps\\CoreWithEF\\BusinessDataAccess\\BusinessDataAccess.csproj": {
+              "projectPath": "C:\\TestApps\\CoreWithEF\\BusinessDataAccess\\BusinessDataAccess.csproj"
             },
             "C:\\TestApps\\CoreWithEF\\BusinessEntitties\\BusinessEntitties.csproj": {
               "projectPath": "C:\\TestApps\\CoreWithEF\\BusinessEntitties\\BusinessEntitties.csproj"
