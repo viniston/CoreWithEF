@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReviewAPIMicroService", "Re
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessDataAccess", "BusinessDataAccess\BusinessDataAccess.csproj", "{0E63E74F-B67C-4D34-AD35-0F2BD5A56F73}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SharedLibraries", "SharedLibraries", "{535B68B3-A9F5-4EF3-8E69-6596A04536AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,6 +44,12 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C80100F6-2288-4B60-8D94-A2E310F47E78} = {535B68B3-A9F5-4EF3-8E69-6596A04536AD}
+		{DCA0A47B-5224-4B9D-9648-DACD63E7B722} = {535B68B3-A9F5-4EF3-8E69-6596A04536AD}
+		{69D6AB3F-9D1D-4F3E-AD50-4D4581F773E8} = {535B68B3-A9F5-4EF3-8E69-6596A04536AD}
+		{0E63E74F-B67C-4D34-AD35-0F2BD5A56F73} = {535B68B3-A9F5-4EF3-8E69-6596A04536AD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {86B34CD4-2D6C-42A8-BF33-9BE00D957795}
