@@ -165,6 +165,7 @@ namespace ReviewAPIMicroService
             app.UseSwaggerUI(c =>
             {
                 c.SwaggerEndpoint("v1/swagger.json", "Review API V1");
+                c.InjectStylesheet("/swagger-ui/theme-monokai.css");
             });
 
             app.UseMiddleware<ExceptionHandlerMiddleware>();
