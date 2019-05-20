@@ -22,6 +22,13 @@ C:\TestApps\ReviewApp\ReviewAPIMicroService\obj\Debug\netcoreapp2.1\ReviewAPIMic
 C:\TestApps\ReviewApp\ReviewAPIMicroService\obj\Debug\netcoreapp2.1\ReviewAPIMicroService.dll
 C:\TestApps\ReviewApp\ReviewAPIMicroService\obj\Debug\netcoreapp2.1\ReviewAPIMicroService.pdb
 C:\TestApps\ReviewApp\ReviewAPIMicroService\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\TestApps\CoreWithEF\ReviewAPIMicroService\bin\Debug\netcoreapp2.1\wwwroot\swagger-ui\theme-feeling-blue.css
+C:\TestApps\CoreWithEF\ReviewAPIMicroService\bin\Debug\netcoreapp2.1\wwwroot\swagger-ui\theme-flattop.css
+C:\TestApps\CoreWithEF\ReviewAPIMicroService\bin\Debug\netcoreapp2.1\wwwroot\swagger-ui\theme-material.css
+C:\TestApps\CoreWithEF\ReviewAPIMicroService\bin\Debug\netcoreapp2.1\wwwroot\swagger-ui\theme-monokai.css
+C:\TestApps\CoreWithEF\ReviewAPIMicroService\bin\Debug\netcoreapp2.1\wwwroot\swagger-ui\theme-muted.css
+C:\TestApps\CoreWithEF\ReviewAPIMicroService\bin\Debug\netcoreapp2.1\wwwroot\swagger-ui\theme-newspaper.css
+C:\TestApps\CoreWithEF\ReviewAPIMicroService\bin\Debug\netcoreapp2.1\wwwroot\swagger-ui\theme-outline.css
 C:\TestApps\CoreWithEF\ReviewAPIMicroService\bin\Debug\netcoreapp2.1\ReviewAPIMicroService.deps.json
 C:\TestApps\CoreWithEF\ReviewAPIMicroService\bin\Debug\netcoreapp2.1\ReviewAPIMicroService.runtimeconfig.json
 C:\TestApps\CoreWithEF\ReviewAPIMicroService\bin\Debug\netcoreapp2.1\ReviewAPIMicroService.runtimeconfig.dev.json
@@ -46,10 +53,3 @@ C:\TestApps\CoreWithEF\ReviewAPIMicroService\obj\Debug\netcoreapp2.1\ReviewAPIMi
 C:\TestApps\CoreWithEF\ReviewAPIMicroService\obj\Debug\netcoreapp2.1\ReviewAPIMicroService.csproj.CopyComplete
 C:\TestApps\CoreWithEF\ReviewAPIMicroService\obj\Debug\netcoreapp2.1\ReviewAPIMicroService.dll
 C:\TestApps\CoreWithEF\ReviewAPIMicroService\obj\Debug\netcoreapp2.1\ReviewAPIMicroService.pdb
-C:\TestApps\CoreWithEF\ReviewAPIMicroService\bin\Debug\netcoreapp2.1\wwwroot\swagger-ui\theme-feeling-blue.css
-C:\TestApps\CoreWithEF\ReviewAPIMicroService\bin\Debug\netcoreapp2.1\wwwroot\swagger-ui\theme-flattop.css
-C:\TestApps\CoreWithEF\ReviewAPIMicroService\bin\Debug\netcoreapp2.1\wwwroot\swagger-ui\theme-material.css
-C:\TestApps\CoreWithEF\ReviewAPIMicroService\bin\Debug\netcoreapp2.1\wwwroot\swagger-ui\theme-monokai.css
-C:\TestApps\CoreWithEF\ReviewAPIMicroService\bin\Debug\netcoreapp2.1\wwwroot\swagger-ui\theme-muted.css
-C:\TestApps\CoreWithEF\ReviewAPIMicroService\bin\Debug\netcoreapp2.1\wwwroot\swagger-ui\theme-newspaper.css
-C:\TestApps\CoreWithEF\ReviewAPIMicroService\bin\Debug\netcoreapp2.1\wwwroot\swagger-ui\theme-outline.css

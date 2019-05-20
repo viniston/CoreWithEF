@@ -11,12 +11,35 @@
 *.userprefs
 
 # Build results
+[Bb]in/
+[Oo]bj/
+*/**/[Oo]bj
+*/**/[Bb]in
 [Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
 [Rr]eleases/
 x64/
 x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+*/**/bin/Debug
+*/**/bin/Release
+*/**/obj/Debug
+*/**/obj/Release
+*/**/obj
+
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
 bld/
 [Bb]in/
 [Oo]bj/
@@ -236,8 +259,6 @@ FakesAssemblies/
 
 # Visual Studio LightSwitch build output
 **/*.HTMLClient/GeneratedArtifacts
-**/*.DesktopClient/GeneratedArtifacts
-**/*.DesktopClient/ModelManifest.xml
 **/*.Server/GeneratedArtifacts
 **/*.Server/ModelManifest.xml
 _Pvt_Extensions
@@ -260,8 +281,4 @@ paket-files/
 __pycache__/
 *.pyc
 /WebApplication2
-/DesktopConnectorMicroservice/UrlsConfig.cs
-/DesktopConnectorMicroservice/Properties/PublishProfiles
-/DesktopConnectorMicroservice/web.config
-/AdminApiMicroservice/Properties/PublishProfiles/FolderProfile.pubxml
-
+/ReviewApiMicroservice/Properties/PublishProfiles/FolderProfile.pubxml
