@@ -29,7 +29,7 @@ namespace BusinessDataAccess.Services
 
         public Review Get(long id)
         {
-            var review = _context.Review.AsTracking().FirstOrDefault(r => r.Id == id);
+            var review = _context.Review.AsNoTracking().FirstOrDefault(r => r.Id == id);
             var returnedReview = _mapper.Map<Review>(review);
             return returnedReview;
         }
