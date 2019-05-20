@@ -266,6 +266,7 @@ __pycache__/
 /ReviewAPIMicroservice/Properties/PublishProfiles
 /ReviewAPIMicroservice/web.config
 /ReviewAPIMicroservice/Properties/PublishProfiles/FolderProfile.pubxml
+/ReviewAPIMicroService/Properties/PublishProfiles/FolderProfile.pubxml.user
 /BusinessEntitties/obj/Debug
 /ReviewAPIMicroService/obj/Debug
 /BusinessDataAccessDefinition/obj/Debug
