@@ -11,7 +11,8 @@ namespace BusinessDataAccess.EF
         {
             Console.WriteLine(args.Length);
             const string dbConnectionString =
-                "Data Source = (localdb)\\MSSQLLocalDB; Initial Catalog = Review_Db; Integrated Security = True; Connect Timeout = 30; Encrypt = False; TrustServerCertificate = False; ApplicationIntent = ReadWrite; MultiSubnetFailover = False";
+                //"Data Source = (localdb)\\MSSQLLocalDB; Initial Catalog = Review_Db; Integrated Security = True; Connect Timeout = 30; Encrypt = False; TrustServerCertificate = False; ApplicationIntent = ReadWrite; MultiSubnetFailover = False";
+                "Data Source=.\\sqlexpress;Initial Catalog=Review_Db;User ID=sa;Password=Testbed123;Integrated Security=False;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
             var builder = new DbContextOptionsBuilder<ReviewDbContext>();
             builder.UseSqlServer(dbConnectionString);
             var context = new ReviewDbContext(builder.Options);

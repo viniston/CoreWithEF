@@ -7,12 +7,3 @@ C:\TestApps\ReviewApp\BusinessEntitties\obj\Debug\netcoreapp2.1\BusinessEntittie
 C:\TestApps\ReviewApp\BusinessEntitties\obj\Debug\netcoreapp2.1\BusinessEntitties.AssemblyInfo.cs
 C:\TestApps\ReviewApp\BusinessEntitties\obj\Debug\netcoreapp2.1\BusinessEntitties.dll
 C:\TestApps\ReviewApp\BusinessEntitties\obj\Debug\netcoreapp2.1\BusinessEntitties.pdb
-C:\TestApps\CoreWithEF\BusinessEntitties\bin\Debug\netcoreapp2.1\BusinessEntitties.deps.json
-C:\TestApps\CoreWithEF\BusinessEntitties\bin\Debug\netcoreapp2.1\BusinessEntitties.dll
-C:\TestApps\CoreWithEF\BusinessEntitties\bin\Debug\netcoreapp2.1\BusinessEntitties.pdb
-C:\TestApps\CoreWithEF\BusinessEntitties\obj\Debug\netcoreapp2.1\BusinessEntitties.csprojAssemblyReference.cache
-C:\TestApps\CoreWithEF\BusinessEntitties\obj\Debug\netcoreapp2.1\BusinessEntitties.csproj.CoreCompileInputs.cache
-C:\TestApps\CoreWithEF\BusinessEntitties\obj\Debug\netcoreapp2.1\BusinessEntitties.AssemblyInfoInputs.cache
-C:\TestApps\CoreWithEF\BusinessEntitties\obj\Debug\netcoreapp2.1\BusinessEntitties.AssemblyInfo.cs
-C:\TestApps\CoreWithEF\BusinessEntitties\obj\Debug\netcoreapp2.1\BusinessEntitties.dll
-C:\TestApps\CoreWithEF\BusinessEntitties\obj\Debug\netcoreapp2.1\BusinessEntitties.pdb
