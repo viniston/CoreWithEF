@@ -11,10 +11,6 @@
 *.userprefs
 
 # Build results
-[Bb]in/
-[Oo]bj/
-*/**/[Oo]bj
-*/**/[Bb]in
 [Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
@@ -25,25 +21,11 @@ bld/
 [Bb]in/
 [Oo]bj/
 [Ll]og/
-
-*/**/bin/Debug
-*/**/bin/Release
-*/**/obj/Debug
-*/**/obj/Release
-*/**/obj
-
-[Dd]ebug/
-[Dd]ebugPublic/
-[Rr]elease/
-[Rr]eleases/
-x64/
-x86/
-[Aa][Rr][Mm]/
-[Aa][Rr][Mm]64/
-bld/
-[Bb]in/
-[Oo]bj/
-[Ll]og/
+obj/
+obj*/
+[Bb]in*/
+[Dd]ebug*/
+[Rr]elease*/
 
 # Visual Studio 2015 cache/options directory
 .vs/
@@ -281,4 +263,11 @@ paket-files/
 __pycache__/
 *.pyc
 /WebApplication2
-/ReviewApiMicroservice/Properties/PublishProfiles/FolderProfile.pubxml
+/ReviewAPIMicroservice/Properties/PublishProfiles
+/ReviewAPIMicroservice/web.config
+/ReviewAPIMicroservice/Properties/PublishProfiles/FolderProfile.pubxml
+/BusinessEntitties/obj/Debug
+/ReviewAPIMicroService/obj/Debug
+/BusinessDataAccessDefinition/obj/Debug
+/Common/obj/Debug
+/BusinessEntitties/obj/Debug/netcoreapp2.1/BusinessEntitties.csproj.FileListAbsolute.txt

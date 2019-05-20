@@ -10,7 +10,6 @@ C:\TestApps\ReviewApp\Common\obj\Debug\netstandard2.0\Common.pdb
 C:\TestApps\CoreWithEF\Common\bin\Debug\netstandard2.0\Common.deps.json
 C:\TestApps\CoreWithEF\Common\bin\Debug\netstandard2.0\Common.dll
 C:\TestApps\CoreWithEF\Common\bin\Debug\netstandard2.0\Common.pdb
-C:\TestApps\CoreWithEF\Common\obj\Debug\netstandard2.0\Common.csprojAssemblyReference.cache
 C:\TestApps\CoreWithEF\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
 C:\TestApps\CoreWithEF\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
 C:\TestApps\CoreWithEF\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
